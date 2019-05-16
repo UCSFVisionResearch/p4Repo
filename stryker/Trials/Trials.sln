@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrialProj", "TrialProj\TrialProj.vcproj", "{D379EAD5-160A-4CC8-BF50-506B44191B4B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrialDocs", "TrialDocs\TrialDocs.vcproj", "{80EC8423-56EE-4B83-AC42-B734802A9042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D379EAD5-160A-4CC8-BF50-506B44191B4B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D379EAD5-160A-4CC8-BF50-506B44191B4B}.Debug|Win32.Build.0 = Debug|Win32
+		{D379EAD5-160A-4CC8-BF50-506B44191B4B}.Release|Win32.ActiveCfg = Release|Win32
+		{D379EAD5-160A-4CC8-BF50-506B44191B4B}.Release|Win32.Build.0 = Release|Win32
+		{80EC8423-56EE-4B83-AC42-B734802A9042}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80EC8423-56EE-4B83-AC42-B734802A9042}.Debug|Win32.Build.0 = Debug|Win32
+		{80EC8423-56EE-4B83-AC42-B734802A9042}.Release|Win32.ActiveCfg = Release|Win32
+		{80EC8423-56EE-4B83-AC42-B734802A9042}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
